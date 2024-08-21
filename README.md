@@ -11,7 +11,7 @@ It presents transactions that occurred in two days, where 492 out of 284,807 tra
 3. **Evaluate the Models:** Test model accuracies and find the top-performing one.
 
 ## Next Steps
-1. **Try** out more classification models and ensembles.
+1. **Train** more classification models and ensembles.
 2. **Fine-tune** the best-performing model.
 
 <br>
