@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# Credit Card Fraud Detection &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ianjure/credit-card-fraud-detection/blob/main/Credit_Card_Fraud_Detection_Notebook.ipynb)
 Credit card companies must identify fraudulent credit card transactions to prevent charging customers for items they did not purchase. The goal of this project is to create a machine learning model to predict whether a transaction is fraudulent or not. By training a bunch of classification algorithms, we will find out which model will perform the best for this task.
 
 ## Data Overview
