@@ -19,8 +19,4 @@ It presents transactions that occurred in two days, where 492 out of 284,807 tra
 
 <br>
 
-**This project is inspired by:**
-
-[Fraud Detection: Fighting Financial Crime with Machine Learning](https://youtu.be/QFyM3w95fXI?si=huavWHXaBZnsJwH1)
-
-[Credit Card Fraud Detection](https://www.geeksforgeeks.org/ml-credit-card-fraud-detection/)
+**This project is inspired by:** [Fraud Detection: Fighting Financial Crime with Machine Learning](https://youtu.be/QFyM3w95fXI?si=huavWHXaBZnsJwH1) & [Credit Card Fraud Detection](https://www.geeksforgeeks.org/ml-credit-card-fraud-detection/)
